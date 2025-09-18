@@ -1,5 +1,4 @@
-
-# Hi There! 👋 I'm Srijesh K  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Srijesh+K;Aspiring+Frontend+Developer)](https://git.io/typing-svg)
 
 ### 🚀 Aspiring Frontend Developer  
 
