@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Srijesh+K;Aspiring+Software+Developer)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Srijesh+K;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
 ### 🚀 Aspiring Frontend Developer  
 
@@ -7,7 +8,8 @@
 💬 Ask me about **HTML, CSS, JavaScript, React.js**  
 ⚡ Fun fact: *Dream Big, Code Bigger!*  
 
----
+</div>
+
 
 ### 🌐 Connect with me  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijeshnair5@gmail.com)
